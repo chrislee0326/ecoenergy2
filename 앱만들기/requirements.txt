@@ -1,0 +1,6 @@
+streamlit
+bs4
+re
+PIL
+pandas
+PyPDF2
