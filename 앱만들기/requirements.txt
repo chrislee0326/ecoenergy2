@@ -1,6 +1,5 @@
 streamlit
 beautifulsoup4
-re
 PIL
 pandas
 PyPDF2
